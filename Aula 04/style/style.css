@@ -19,7 +19,7 @@ header {
     gap: 16px;
 }
 
-.card {
+/* .card {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -55,5 +55,5 @@ header {
     font-size: 1.5rem;
     font-weight: 900;
     width: 100%;
-}
+} */
 
